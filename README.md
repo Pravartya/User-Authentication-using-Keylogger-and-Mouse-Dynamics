@@ -2,7 +2,7 @@
 
 
 Data:
-Download the dataset from https://drive.google.com/file/d/1qnRSyw47qJ0amQfFWRPIW0SK01c8-fAT/view and unzip in the code directory. 
+Download the dataset from https://drive.google.com/drive/u/0/my-drive and unzip in the code directory. 
 
 Libraries:
 Please use pip install before running any code
